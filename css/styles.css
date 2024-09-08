@@ -2,7 +2,6 @@
   .title {
     background-color: red; font-size: 32px; text-align: center; font: bold; color: white;
   }
-
   .odd {
     background-color: lightpink;
     font-family: Verdana, "DejaVu Sans", sans-serif; 
@@ -10,12 +9,9 @@
   #two {
     color: blue; font-size: 36px;
   }
-
   .adjust-font-size {
-
     font-size: 24px;
   }
-
   #four {
     background-color: lightgreen; font-size: 24px; font-weight: bold;
   }
@@ -34,7 +30,6 @@
   .avatar.proportioned {
     width: 300px; height: auto;
   }
-
   .avatar.distorted {
     width: 200px; height: 400px;
   }
